@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=birseykoo&&show_icons=true&theme=radical&line_height=27&v=5" alt="birseykoo's GitHub Stats" /><br>
+  <a href="https://github.com/birseykoo"><img title="Volkan Çalışkan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birseykoo&layout=compact"></a><br>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/birseykoo/count.svg" />
+</p>
+
 <!--
-**birseykoo/birseykoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Volkan Çalışkan/Volkan Çalışkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
