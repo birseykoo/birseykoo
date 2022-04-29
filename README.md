@@ -1,12 +1,8 @@
 ### Hi, I'm [Volkan!](https://github.com/birseykoo)<img src="https://media.giphy.com/media/8cxI9wG0M0dqLweyeH/giphy.gif" width="30">
 
-
-
 <a href="https://github.com/birseykoo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birseykoo&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a><a href="https://github.com/birseykoo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birseykoo&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
 
 ## <a href="https://gist.github.com/birseykoo"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-
 
 <!--
 **Volkan Çalışkan/Volkan Çalışkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,8 +27,6 @@ Here are some ideas to get you started:
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     
 <hr>
-
-- 📫 How to reach me
 
   <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
